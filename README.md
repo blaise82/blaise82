@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaboratewith content creators
+- 👯 I’m looking to collaborate with content creators
 - 📫 How to reach me: izabayoblaise82@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love singing and playing piano/guitar/drums
