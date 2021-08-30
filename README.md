@@ -1,5 +1,22 @@
 ### Hi there, I am Blaise 👋
 
+### What I'm currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## My activities
+
+<a href="https://github-readme-stats.vercel.app/api?username=blaise82&show_icons=true$hide_border=true">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=blaise82&show_icons=true$hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
 ## Languages and Tools
 
 <p>
@@ -7,7 +24,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![scss](https://img.shields.io/badge/-scss-black?style=flat-square&logo=scss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React_Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
