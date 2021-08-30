@@ -50,7 +50,9 @@ Want to become a project manager 💸 and an Open Source Contributor ❤️.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
+![Node.js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Node.js)
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=Chai)
 
 
 ### 👣 Next Steps
