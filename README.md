@@ -1,4 +1,5 @@
-### Hi there 👋, I'm [Blaise](https://github.com/blaise82) 👨‍💻
+### Hi there 👋, I'm [Blaise](https://blaise82.github.io/portfolio/) 👨‍💻
+[WEBSITE](https://blaise82.github.io/portfolio/)
 <br/>
 
 <p>
