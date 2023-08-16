@@ -18,7 +18,6 @@ Want to become a project manager 💸 and an Open Source Contributor ❤️.
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a Full-Stack Developer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React(js,native), Redux, Firebase, designing.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
